@@ -1,0 +1,15 @@
+h1, h3{
+	color: aqua;
+	text-align: center;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+body{
+	background-image: url("img/bg.png");
+	background-size: 100%;
+}
+
+#txt{
+	color: #f4a460;
+	text-align: center;
+}
